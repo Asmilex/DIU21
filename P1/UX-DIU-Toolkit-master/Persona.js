@@ -73,39 +73,37 @@ angular.module("angular", [])
 
 
 				Id: 1,
-				Name: "Monica Suarez",
-				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Name: "Mei Torres Li",
+				Photo: "mei.jfif",
+				Quote: "Vive cada momento como si fuera el último",
+				Age: 19,
+				Occupation: "Estudiando estilismo en la escuela de su madre",
+				Family: "Su madre Fang, su padre Xandro y su gato Winsconsin",
+				Location: "Pontevedra, Galicia",
+				Character: "Trabajar en la industria de la moda del K-pop",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				],
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Ver a las BlackPink en un concierto en la zona VIP.", "Progresar en su carrera profesional.", "Poder bailar"],
+				Frustrations: ["Depender del resto", "Falta de accesibilidad de las herramientas del sector", "Los insectos"],
+				Bio: "Nació en Pontevedra (Galicia) con una discapaciad motora que le impide mover la parte inferior de su cuerpo. Sus padres son Fang, una estilista china que se mudó a España para montar su propia academia de moda, y Xandro, quien lleva el restaurante de un hotel. Tiene un gran respeto por ambas culturas, española y china, y viaja con relativa regularidad a China para ver a la familia de su madre. Ha cursado toda la enseñanza obligatoria y ahora es alumna de su madre en su escuela de moda. A pesar de haber vivido toda su vida con esta condición de movilidad reducida, su estabilidad emocional empeoró en la adolescencia cuando veía que todos sus compañeros iban a hacer deporte juntos, salían y hacían actividades que no eran posibles para ella. Sin embargo, pudo superar esta situación gracias al apoyo de sus mejores amigos y al nuevo género de música que le presentaron, el K-pop.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
-
+					{ Name: "Mobile", Value: 4 },
+					{ Name: "RRSS", Value: 5 },
+					{ Name: "Software", Value: 1 }
 				],
                 Contextos:   "The goals this user hopes to achieve." ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
+					{ Name: "Publicidad Tradicional (Ads)", Value: 1 },
+					{ Name: "Online & Social Media", Value: 5 },
 					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			}
 		];
 		$scope.model = $scope.Personas[0];
-
 	}])
