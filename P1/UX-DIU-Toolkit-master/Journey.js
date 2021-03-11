@@ -19,9 +19,9 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-		$scope.Grupo_ID ="DIU1.ABCDEF";
+		$scope.Grupo_ID ="DIU1.CherryPink";
         $scope.Curso ="2020/21";
-        $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
+        $scope.Github_ID ="https://github.com/Asmilex/DIU21";
         
 		$scope.JourneyIndex = 0;
         
@@ -47,42 +47,42 @@ angular.module("angular", [])
                 /*** PASO #2: DECICION ***/ 
                 goal2: "Informarse de páginas web de viaje",
                 touch2: "Ordenador",
-                feel2: "3",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-PCangry.png",
+                feel2: "2",
+                con2: "Hay muchas aplicaciones y no sabe cuál es la adecuada. Aparte, algunas no están adecuadas para su daltonismo.",
+                ima2: "cartoon-deciding.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
+                goal3: "Deciden buscar un sitio tranquilo donde pasar la semana y hacer fotos. No sabe si ir a playa o montaña.",
+                touch3: "Ordenador",
                 feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
-                ima3: "cartoon-phone.png",
+                con3: "Buscar opciones y comparar precios. Ver si sale más barato la playa o montaña, sopesar los alrededores que tiene cada zona",
+                ima3: "cartoon-looking.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
-                touch4: "ordenador",
+                goal4: "Se encuentra un post en Instagram de una foto de Covadonga, por lo que decide alojarse en Asturias, ya que se percata que tiene las dos zonas que quería visitar",
+                touch4: "Móvil",
                 feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
+                con4: "No sabe si Ayuso le va a dejar salir, y le preocupa el mal tiempo.",
+                ima4: "cartoon-phone.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                goal5: "Decide planificar su ruta mediante la web que ha elegido (RoadTrippers)",
+                touch5: "Ordenador",
+                feel5: "1",
+                con5: "La web solo está en inglés, no contiene muchos lugares de España, y las rutas gratuitas son muy limitadas, por lo que la experiencia no es buena.",
+                ima5: "cartoon-PCangry.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
+                goal6: "Cambia de aplicación de reserva de viajes porque Roadtrippers no funciona. Ofrece muy pocas posibilidades en España",
                 touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
-                ima6: "cartoon-resting.png",
+                feel6: "1",
+                con6: "Le toca hacer todo de nuevo desde la fase de actuación, tiene que buscar nueva app y consultar disponibilidades",
+                ima6: "cartoon-PCcrying.png",
                 
 			},
 			{	
@@ -96,17 +96,17 @@ angular.module("angular", [])
                 Photo: "mei.jfif",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                goal1: "Sus padres le dicen que organice un viaje para ver a sus abuelos en China.",
+                touch1: "Mamá y papá",
+                feel1: "4",
+                con1: "Le preocupa la accesibilidad que pueda tener el avión y la Covid.",
+                ima1: "cartoon-teamthinking.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
+                goal2: "Busca vuelos para ir a la ciudad de sus abuelos, Suzhou",
+                touch2: "Ordenador",
+                feel2: "3",
+                con2: "",
                 ima2: "cartoon-teamthinking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
@@ -119,7 +119,7 @@ angular.module("angular", [])
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
+                goal4: "",
                 touch4: "Móvil (webapp)",
                 feel4: "2",
                 con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
@@ -147,7 +147,7 @@ angular.module("angular", [])
 			}
 		];
         
-		$scope.model = $scope.Journeys[0];
+		$scope.model = $scope.Journeys[1];
 
 	}])
 
