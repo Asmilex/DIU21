@@ -38,16 +38,16 @@ angular.module("angular", [])
                 Photo: "diego.jfif",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
-                feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                goal1: "Quiere preparar una escapada natural con su familia",
+                touch1: "Su casa",
+                feel1: "5",
+                con1: "Ver cuántos días puede tener libre y dónde pueden ir",
+                ima1: "cartoon-writting2.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "Movil",
-                feel2: "2",
+                goal2: "Informarse de páginas web de viaje",
+                touch2: "Ordenador",
+                feel2: "3",
                 con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
                 ima2: "cartoon-PCangry.png",
                 
