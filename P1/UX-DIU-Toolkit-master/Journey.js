@@ -34,8 +34,8 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Pedro",
-                Photo: "man.png",
+				Name: "Diego",
+                Photo: "diego.jfif",
     
                 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
@@ -92,8 +92,8 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Mei",
+                Photo: "mei.jfif",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",

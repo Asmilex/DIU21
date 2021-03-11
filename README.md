@@ -32,16 +32,31 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Entre las opciones de las que disponíamos, las cuales eran *Inspirock*, *Roadtrippers*, *Tripit* y *Lambus*, hemos optado por **Roadtrippers**. Los motivos son los siguientes:
+- La página web de Tripit no cargaba para María, y Andrés no podía acceder ni a Tripit ni a Inspirock.
+- Lambus necesitaba instalar aplicación en Android.
+- Roadtrippers es elegante y dispone de interfaz web, por lo que nos ha resultado la más llamativa. 
+
+<img align="center" src="./P1/img/Roadtrippers.png" alt="Logo de Roadtrippers"/>
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+Hemos creado dos personas ficticias de ámbitos muy diferentes. Ambas pueden verse en la situación de usar la aplicación seleccionada, pero cada uno con sus necesidades y requerimientos únicos
+
+### User research de Diego
+
+<img align="center" src="./P1/img/diego.png" alt="Imagen de Diego"/>
+
+
+### User research de Mei
+
+<img align="center" src="./P1/img/mei.png" alt="Imagen de Mei"/>
+
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
