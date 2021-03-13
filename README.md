@@ -27,7 +27,7 @@ Miembros:
 
 # Proceso de Diseño
 
-## Paso 1. UX Desk Research & Analisis
+## Paso 1.  UX Desk Research & Analisis
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
@@ -41,21 +41,25 @@ Entre las opciones de las que disponíamos, las cuales eran *Inspirock*, *Roadtr
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-Hemos creado dos personas ficticias de ámbitos muy diferentes. Ambas pueden verse en la situación de usar la aplicación seleccionada, pero cada uno con sus necesidades y requerimientos únicos
+Hemos creado dos personas ficticias de ámbitos muy diferentes. Ambas pueden verse en la situación de usar la aplicación seleccionada, pero cada uno con sus necesidades y requerimientos únicos. Principalmente, el daltonismo de Diego, y la movilidad reducida de Mei.
 
 ### User research de Diego
 
 <img align="center" src="./P1/img/diego.png" alt="Imagen de Diego"/>
 
-
 ### User research de Mei
 
 <img align="center" src="./P1/img/mei.png" alt="Imagen de Mei"/>
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+
+>>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
+
+Ambas experiencias de usuario son las estándar. Sin embargo, hemos propuesto dos modelos: uno en el que el usuario sí quiere pagar, y otro en el que no. 
+
+Además, se comentan brevemente algunas de las funcionalidades que presenta Roadtrippers, y si están implementadas de forma efectiva. 
 
 ### Journey map de Diego
 
@@ -66,7 +70,6 @@ Hemos creado dos personas ficticias de ámbitos muy diferentes. Ambas pueden ver
 <img align="center" src="./P1/img/JM-Mei.png" alt="Journey map de Mei"/>
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -75,6 +78,8 @@ Hemos creado dos personas ficticias de ámbitos muy diferentes. Ambas pueden ver
 >>> - Enlace al documento:  (sube a github el xls/pdf)
 >>> - Valoración final (numérica):
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+En general, la aplicación es muy intuitiva de usar. 
 
 
 ## Paso 2. UX Design
