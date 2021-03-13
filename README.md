@@ -1,8 +1,9 @@
 # DIU21
+
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 
-Grupo: DIU1_01AABB.  Curso: 2020/21
-Updated: 8/2/2021
+Grupo: DIU1.CherryPink.  Curso: 2020/21.
+Updated: /2/2021
 
 Proyecto:
 >>> Decida el nombre corto de su propuesta en la práctica 2
@@ -19,10 +20,6 @@ Miembros:
 - :bust_in_silhouette:  María Sánchez     :octocat: github.com/LocalPinkRobin
 
 -----
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño
@@ -52,7 +49,6 @@ Hemos creado dos personas ficticias de ámbitos muy diferentes. Ambas pueden ver
 
 <img align="center" src="./P1/img/mei.png" alt="Imagen de Mei"/>
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
