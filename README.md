@@ -52,11 +52,19 @@ Hemos creado dos personas ficticias de ámbitos muy diferentes. Ambas pueden ver
 
 <img align="center" src="./P1/img/mei.png" alt="Imagen de Mei"/>
 
-
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+
+### Journey map de Diego
+
+<img align="center" src="./P1/img/JM-Diego.png" alt="Journey map de Diego"/>
+
+### Journey map de Mei
+
+<img align="center" src="./P1/img/JM-Mei.png" alt="Journey map de Mei"/>
+
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
 
