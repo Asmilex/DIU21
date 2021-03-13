@@ -40,11 +40,11 @@ Entre las opciones de las que disponíamos, las cuales eran *Inspirock*, *Roadtr
 -----
 Hemos creado dos personas ficticias de ámbitos muy diferentes. Ambas pueden verse en la situación de usar la aplicación seleccionada, pero cada uno con sus necesidades y requerimientos únicos. Principalmente, el daltonismo de Diego, y la movilidad reducida de Mei.
 
-### User research de Diego
+### [User research de Diego](./P1/img/diego.png)
 
 <img align="center" src="./P1/img/diego.png" alt="Imagen de Diego"/>
 
-### User research de Mei
+### [User research de Mei](./P1/img/mei.png)
 
 <img align="center" src="./P1/img/mei.png" alt="Imagen de Mei"/>
 
@@ -52,17 +52,15 @@ Hemos creado dos personas ficticias de ámbitos muy diferentes. Ambas pueden ver
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
-
-Ambas experiencias de usuario son las estándar. Sin embargo, hemos propuesto dos modelos: uno en el que el usuario sí quiere pagar, y otro en el que no.
+Las dos experiencias son ejemplo de uso de la aplicación. Sin embargo, hemos propuesto dos modelos: uno en el que el usuario sí quiere pagar, y otro en el que no. En ambos se presentan dificultades posibles en el proceso, descritas en la sección anterior.
 
 Además, se comentan brevemente algunas de las funcionalidades que presenta Roadtrippers, y si están implementadas de forma efectiva.
 
-### Journey map de Diego
+### [Journey map de Diego](./P1/img/JM-Diego.png)
 
 <img align="center" src="./P1/img/JM-Diego.png" alt="Journey map de Diego"/>
 
-### Journey map de Mei
+### [Journey map de Mei](./P1/img/JM-Mei.png)
 
 <img align="center" src="./P1/img/JM-Mei.png" alt="Journey map de Mei"/>
 
