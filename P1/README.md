@@ -1,12 +1,5 @@
 ## DIU - Practica1, entregables
 
-
-
-
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
-
-
-(valoración y conclusiones de esta etapa)
+En esta carpeta se encuentran los siguientes ficheros:
+1. Imágenes de los User Research y los Journey Map ([carpeta img](./img/))
+2. Usability review de la aplicación Roadtrippers ([enlace](./Usability%20review%20Roadtrippers.pdf))
