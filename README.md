@@ -57,9 +57,9 @@ Hemos creado dos personas ficticias de ámbitos muy diferentes. Ambas pueden ver
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
 
-Ambas experiencias de usuario son las estándar. Sin embargo, hemos propuesto dos modelos: uno en el que el usuario sí quiere pagar, y otro en el que no. 
+Ambas experiencias de usuario son las estándar. Sin embargo, hemos propuesto dos modelos: uno en el que el usuario sí quiere pagar, y otro en el que no.
 
-Además, se comentan brevemente algunas de las funcionalidades que presenta Roadtrippers, y si están implementadas de forma efectiva. 
+Además, se comentan brevemente algunas de las funcionalidades que presenta Roadtrippers, y si están implementadas de forma efectiva.
 
 ### Journey map de Diego
 
@@ -73,14 +73,18 @@ Además, se comentan brevemente algunas de las funcionalidades que presenta Road
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf)
->>> - Valoración final (numérica):
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
-En general, la aplicación es muy intuitiva de usar. 
+El documento se encuentra en la [carpeta P1](./P1/Usability%20review%20Roadtrippers.pdf).
 
+En general, la aplicación es muy intuitiva de usar. Los mapas presentan claramente la ruta, marcan puntos de interés, y permite mirar rápidamente hoteles.
+
+Sin embargo, existen una serie de problemas importantes que debemos destacar:
+- Toda la interfaz está en inglés.
+- Claramente el público objetivo es estadounidense. Fuera del país no se presenta el mismo nivel de detalle.
+- El sistema de layers que usan para la gestión de la ruta necesita refinamiento. Algunas acciones básicas están escondidas detrás de elementos visuales ocultos a priori, como eliminar un punto de la ruta. Las capas no están bien integradas del todo, ni se justifica su existencia. Podrían haber sido sustituidas por un simple filtro.
+- Si no se paga, la cantidad de puntos de ruta que se pueden añadir es mínima. Tanto, que no merece mucho la pena usarla.
+
+En general, no estamos muy satisfechos con Roadtrippers, pero entendemos que hay potencial para países del extranjero. La valoración es de un 85 (Good).
 
 ## Paso 2. UX Design
 
