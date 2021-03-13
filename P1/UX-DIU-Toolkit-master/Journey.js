@@ -99,48 +99,48 @@ angular.module("angular", [])
                 goal1: "Sus padres le dicen que organice un viaje para ver a sus abuelos en China.",
                 touch1: "Mamá y papá",
                 feel1: "4",
-                con1: "Le preocupa la accesibilidad que pueda tener el avión y la Covid.",
+                con1: "Le preocupa la Covid-19 y causarle problemas a sus abuelos.",
                 ima1: "cartoon-teamthinking.png",
                 
                 /*** PASO #2: DECICION ***/ 
                 goal2: "Busca vuelos para ir a la ciudad de sus abuelos, Suzhou",
                 touch2: "Ordenador",
                 feel2: "3",
-                con2: "",
-                ima2: "cartoon-teamthinking.png",
+                con2: "La accesibilidad que pueda tener el avión y las medidas de seguridad sanitarias que pueda tener.",
+                ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
+                goal3: "Sus abuelos la llaman para que organicen un viaje de ocio en conjunto",
                 touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                feel3: "5",
+                con3: "Debe planificarse con tiempo",
+                ima3: "cartoon-phone-sitting.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "",
-                touch4: "Móvil (webapp)",
-                feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                goal4: "Mei decide pagar por el servicio de la aplicación, pues de esta forma, organiza el viaje con comodidad",
+                touch4: "Ordenador",
+                feel4: "3",
+                con4: "Muchos lugares no están registrados. Por ejemplo, los restaurantes de Suzhou no figuran.",
+                ima4: "cartoon-writting2.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
+                goal5: "Una vez está planificada la ruta turística, decide reservar los respectivos lugares y compartir la ruta con sus familiares mediante la app.",
+                touch5: "Ordenador",
                 feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                con5: "Desafortunadamente, no todos los lugares muestran la información de si el sitio es accesible para personas con movilidad reducida.",
+                ima5: "cartoon-PCtyping.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "El viaje es un éxito, aunque la pandemia y su problema de accesibilidad dificulta el viaje de formas que no estaban previstas.",
+                touch6: "El mundo",
+                feel6: "5",
+                con6: "Tuvieron que cambiar algunos lugares por culpa de la pandemia y por la falta de accesbilidad.",
+                ima6: "cartoon-planning.png",
                 
                 
                 
