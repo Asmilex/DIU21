@@ -65,7 +65,6 @@ Además, se comentan brevemente algunas de las funcionalidades que presenta Road
 <img align="center" src="./P1/img/JM-Mei.png" alt="Journey map de Mei"/>
 
 
-
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 

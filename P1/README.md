@@ -43,7 +43,3 @@ Sin embargo, existen una serie de problemas importantes que debemos destacar:
 Debemos hacer especial mención a la paleta de colores seleccionada por los desarrolladores. Se puede observar que, [incluso simulando los distintos tipos de daltonismo que tienen los usuarios](./P1/img/paleta/), la web sigue siendo usable. Consideramos esto un punto muy importante, pues uno de nuestras personas presenta este matiz. Las fotografías se han conseguido gracias a la web [color-blindness](https://www.color-blindness.com/coblis-color-blindness-simulator/).
 
 En general, no estamos muy satisfechos con Roadtrippers desde el punto de vista del turismo en España, pero entendemos que hay potencial para países del extranjero. La valoración es de un 85 (Good).
-
-
-
-2. Usability review de la aplicación Roadtrippers ([enlace](./Usability%20review%20Roadtrippers.pdf))
