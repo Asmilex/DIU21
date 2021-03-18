@@ -16,8 +16,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros:
-- :bust_in_silhouette:   Andrés Millán    :octocat: github.com/Asmilex
-- :bust_in_silhouette:  María Sánchez     :octocat: github.com/LocalPinkRobin
+- :bust_in_silhouette:   Andrés Millán    :octocat: www.github.com/Asmilex
+- :bust_in_silhouette:  María Sánchez     :octocat: www.github.com/LocalPinkRobin
 
 -----
 
