@@ -24,7 +24,7 @@ Miembros:
 
 # Proceso de Diseño
 
-## Paso 1.  UX Desk Research & Analisis
+## Paso 1.  UX Desk Research & Analysis
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
@@ -79,12 +79,12 @@ Sin embargo, existen una serie de problemas importantes que debemos destacar:
 - El sistema de layers que usan para la gestión de la ruta necesita refinamiento. Algunas acciones básicas están escondidas detrás de elementos visuales ocultos a priori, como eliminar un punto de la ruta. Las capas no están bien integradas del todo, ni se justifica su existencia. Podrían haber sido sustituidas por un simple filtro.
 - Si no se paga, la cantidad de puntos de ruta que se pueden añadir es mínima. Tanto, que no merece mucho la pena usarla.
 
-Debemos hacer especial mención a la paleta de colores seleccionada por los desarrolladores. Se puede observar que, [incluso simulando los distintos tipos de daltonismo que tienen los usuarios](./P1/img/paleta/), la web sigue siendo usable. Consideramos esto un punto muy importante, pues uno de nuestras personas presenta este matiz.
+Debemos hacer especial mención a la paleta de colores seleccionada por los desarrolladores. Se puede observar que, [incluso simulando los distintos tipos de daltonismo que tienen los usuarios](./P1/img/paleta/), la web sigue siendo usable. Consideramos esto un punto muy importante, pues uno de nuestras personas presenta este matiz. Las fotografías se han conseguido gracias a la web [color-blindness](https://www.color-blindness.com/coblis-color-blindness-simulator/).
 
-En general, no estamos muy satisfechos con Roadtrippers, pero entendemos que hay potencial para países del extranjero. La valoración es de un 85 (Good).
+En general, no estamos muy satisfechos con Roadtrippers desde el punto de vista del turismo en España, pero entendemos que hay potencial para países del extranjero. La valoración es de un 85 (Good).
+
 
 ## Paso 2. UX Design
-
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
