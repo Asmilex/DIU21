@@ -1,6 +1,6 @@
 # Práctica 1. UX Desk Research and Analysis
 
-## [Competitive analysis]()
+## [Competitive analysis](./img/Competitive_analysis.png)
 
 Hemos analizado las principales herramientas que se nos han presentado, las cuales son *Inspirock*, *Roadtrippers*, *Tripit* y *Lambus*. En el estudio, hemos sintetizado las principales características que nos ofrece cada una, destacando sus puntos fuertes y débiles.
 
