@@ -37,7 +37,19 @@ Dentro de éste grupo debemos distinguir tres categorías distintas:
 ## Arquitectura de información
 
 ### Sitemap
+
+<img align="center" src="./img/Sitemap.jpg" alt="Sitemap"/>
+
 ### Labelling
+
+| Etiqueta        | Descripción           |
+| :-------------: |:-------------:|
+| Inicio      | Página principal del sitio. Se describen las funcionalidades de la aplicación, los protocolos Covid seguidos, enlaces a los distintos lugares de la página... |
+| Iniciar sesión      | Permite a los usuarios registrarse o acceder a su cuenta con el fin de poder usar la aplicación      |
+| Sobre nosotros | About us. Muestra información sobre los desarrolladores, así como el proyecto|
+| Preguntas frecuentes | FAQ. Se resuelven las dudas habituales relacionadas con el uso de la aplicación, los servicios, pagos...|
+| Búsqueda | Listado de los servicios disponibles. Se pueden buscar las actividades y los hoteles disponibles junto con su información.  |
+
 
 
 ## Prototipo Lo-FI Wireframe
