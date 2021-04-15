@@ -32,7 +32,19 @@ Dentro de éste grupo debemos distinguir tres categorías distintas:
     - **Individuos**: personas que viajan solas.
 - Las **empresas** deben poder añadir sus servicios a la aplicación. En principio, su workflow es distinto al de un usuario habitual, pues únicamente se encargarán de gestionar sus entradas en la base de datos; esto es, añadir puntos de interés, modificar la información sobre éstos, eliminarlos...
 
-<img align="center" src="./img/Task matrix.png" alt="Task Matrix"/>
+|                         | **Familias** | **Grupos** | **Empresas** | **Individuos** |
+|-------------------------|----------|--------|----------|------------|
+| **Marcar punto de ruta**    | H        | H      |          | H          |
+| **Eliminar punto de ruta**  | H        | H      |          | H          |
+| **Reservar servicio**       | H        | H      |          | H          |
+| Anular servicio         | L        | M      |          | L          |
+| Compartir ruta          | H        | H      |          | L          |
+| Dejar reseña            | M        | L      |          | M          |
+| **Consultar actividades**   | H        | H      |          | H          |
+| Cambiar interfaz        | L        | L      | L        | L          |
+| Dar de baja un servicio |          |        | L        |            |
+| Dar de alta un servicio |          |        | H        |            |
+
 
 ## Arquitectura de información
 
