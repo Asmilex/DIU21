@@ -90,7 +90,7 @@ En general, no estamos muy satisfechos con Roadtrippers desde el punto de vista 
 
 Hemos recogido las principales sensaciones e ideas que han tenido Diego y Mei en la siguiente malla de información receptora:
 
-<img align="center" src="./img/Feedback capture grid.png" alt="Malla receptora de información"/>
+<img align="center" src="./P2/img/Feedback capture grid.png" alt="Malla receptora de información"/>
 
 Intentaremos solucionar sus problemas mediante nuestra propuesta: **Insertar nombre chulo**.
 
@@ -103,7 +103,7 @@ Se trata de una aplicación de planificación de viajesque promueve eventos de o
 
 Hemos recogido las ideas del proyecto en el siguiente scope canvas. De esta forma, las principales ideas se pueden reconocer a simple vista
 
-<img align="center" src="./img/Scope canvas.png" alt="Scope canvas"/>
+<img align="center" src="./P2/img/Scope canvas.png" alt="Scope canvas"/>
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis
@@ -134,7 +134,7 @@ La página web funcionará como una *PWA* (Progressive Web App). De esta forma, 
 
 La estructura del sitio es la siguiente:
 
-<img align="center" src="./img/Sitemap.png" alt="Sitemap"/>
+<img align="center" src="./P2/img/Sitemap.png" alt="Sitemap"/>
 
 En la siguiente tabla se recogen los términos empleados y la funcionalidad que hay recogida tras ellos:
 
@@ -152,7 +152,6 @@ En la siguiente tabla se recogen los términos empleados y la funcionalidad que 
 | Reservar              | Se muestra una página similar a un carrito de la compra, con el precio de todos los servicios por separado, fechas de la reserva y el precio total.                                                                          |
 | Perfil                | Información del usuario: nombre de usuario, correo, contraseña, historial de rutas... Se puede configurar también la interfaz, como aumentar el tamaño de texto, y cambiar la paleta de colores                              |
 | Ofrece tus servicios  | Las empresas que quieran registrar sus negocios deben acceder a esta página. Enviarán un formulario con todo lo necesario para poder colgar su servicio.                                                                     |
-
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
