@@ -32,22 +32,21 @@ Dentro de éste grupo debemos distinguir tres categorías distintas:
     - **Individuos**: personas que viajan solas.
 - Las **empresas** deben poder añadir sus servicios a la aplicación. En principio, su workflow es distinto al de un usuario habitual, pues únicamente se encargarán de gestionar sus entradas en la base de datos; esto es, añadir puntos de interés, modificar la información sobre éstos, eliminarlos...
 
-
-|                              | **Familias** | **Grupos** | **Individuos** | **Empresas** |
-|------------------------------|--------------|------------|----------------|--------------|
-| **Registrarse**              | H            | H          | H              | M            |
+|                                  | **Familias** | **Grupos** | **Individuos** | **Empresas** |
+|----------------------------------|--------------|------------|----------------|--------------|
+| **Registrarse**                  | H            | H          | H              | M            |
 | **Buscar servicios disponibles** | H            | H          | H              |              |
-| **Marcar punto de ruta**     | H            | H          | H              |              |
-| **Eliminar punto de ruta**   | H            | H          | H              |              |
-| **Reservar servicio**        | H            | H          | H              |              |
-| Anular servicio              | L            | M          | L              |              |
-| Compartir ruta               | H            | H          | L              |              |
-| Dejar reseña                 | M            | L          | M              |              |
-| Solicitar ayuda              | M            | L          | L              | M            |
-| Modificar perfil             | L            | L          | M              |              |
-| Cambiar interfaz             | L            | L          | L              | L            |
-| Dar de baja un servicio      |              |            |                | L            |
-| Dar de alta un servicio      |              |            |                | H            |
+| **Marcar punto de ruta**         | H            | H          | H              |              |
+| **Eliminar punto de ruta**       | H            | H          | H              |              |
+| **Reservar servicio**            | H            | H          | H              |              |
+| Anular servicio                  | L            | M          | L              |              |
+| Compartir ruta                   | H            | H          | L              |              |
+| Dejar reseña                     | M            | L          | M              |              |
+| Solicitar ayuda                  | M            | L          | L              | M            |
+| Modificar perfil                 | L            | L          | M              |              |
+| Cambiar interfaz                 | L            | L          | L              | L            |
+| Dar de baja un servicio          |              |            |                | L            |
+| Dar de alta un servicio          |              |            |                | H            |
 
 Las tareas fundamentales están marcadas en negrita.
 
@@ -55,22 +54,32 @@ Las tareas fundamentales están marcadas en negrita.
 
 ### Sitemap
 
-<img align="center" src="./img/Sitemap.jpg" alt="Sitemap"/>
+Nuestra propuesta de diseño de la web es la siguiente:
+
+<img align="center" src="./img/Sitemap.png" alt="Sitemap"/>
+
+Es una construcción estándar y similar a las webs modernas de hoy en día. Claramente se distinguen las partes funcionales de la aplicación, y las de contacto y ayuda.
 
 ### Labelling
 
-| Etiqueta             |                                                                          Descripción                                                                          |
-|----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Inicio               | Página principal del sitio. Se describen las funcionalidades de la aplicación, los protocolos Covid seguidos, enlaces a los distintos lugares de la página... |
-| Iniciar sesión       |                                Permite a los usuarios registrarse o acceder a su cuenta con el fin de poder usar la aplicación                                |
-| Sobre nosotros       |                                         About us. Muestra información sobre los desarrolladores, así como el proyecto                                         |
-| Preguntas frecuentes |                           FAQ. Se resuelven las dudas habituales relacionadas con el uso de la aplicación, los servicios, pagos...                            |
-| Búsqueda             |                  Listado de los servicios disponibles. Se pueden buscar las actividades y los hoteles disponibles junto con su información.                   |
+A continuación, se explica el significado de los nombres que aparecen en el sitemap:
 
-
+| Etiqueta              | Descripción                                                                                                                                                                                                                  |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Home                  | Página principal del sitio. Se describen las funcionalidades de la aplicación, los protocolos Covid seguidos, enlaces a los distintos lugares de la página...                                                                |
+| Iniciar sesión        | Permite a los usuarios registrarse o acceder a su cuenta con el fin de poder usar la aplicación.                                                                                                                             |
+| Búsqueda              | Listado de los servicios disponibles. Se pueden buscar las actividades y los hoteles disponibles junto con su información.                                                                                                   |
+| Sobre nosotros        | About us. Muestra información sobre los desarrolladores, así como el proyecto.                                                                                                                                               |
+| Contacta con nosotros | Información de contacto para poder recibir asistencia.                                                                                                                                                                       |
+| Preguntas frecuentes  | FAQ. Se resuelven las dudas habituales relacionadas con el uso de la aplicación, los servicios, pagos...                                                                                                                     |
+| Mapa                  | Es la principal función de la aplicación. Aquí se muestran todos los servicios disponibles en el mapa del lugar deseado. Se puede visualizar la ruta, así como compartirla y reservar tras añadir todos los puntos deseados. |
+| Dejar reseña          | El usuario añade una valoración sobre un servicio. Estas se mostrarán en el mapa.                                                                                                                                            |
+| Compartir             | Permite difundir una ruta con otras personas. No será necesario estar registrado para verla.                                                                                                                                 |
+| Reservar              | Se muestra una página similar a un carrito de la compra, con el precio de todos los servicios por separado, fechas de la reserva y el precio total.                                                                          |
+| Perfil                | Información del usuario: nombre de usuario, correo, contraseña, historial de rutas... Se puede configurar también la interfaz, como aumentar el tamaño de texto, y cambiar la paleta de colores                              |
+| Ofrece tus servicios  | Las empresas que quieran registrar sus negocios deben acceder a esta página. Enviarán un formulario con todo lo necesario para poder colgar su servicio.                                                                     |
 
 ## Prototipo Lo-FI Wireframe
-
 
 ## Conclusiones
 (incluye valoración de esta etapa)
