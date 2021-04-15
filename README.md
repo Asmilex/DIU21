@@ -88,41 +88,71 @@ En general, no estamos muy satisfechos con Roadtrippers desde el punto de vista 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
+Hemos recogido las principales sensaciones e ideas que han tenido Diego y Mei en la siguiente malla de información receptora:
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+<img align="center" src="./img/Feedback capture grid.png" alt="Malla receptora de información"/>
 
+Intentaremos solucionar sus problemas mediante nuestra propuesta: **Insertar nombre chulo**.
 
- Interesante | Críticas
-| ------------- | -------
-  Preguntas | Nuevas ideas
-
-
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Se trata de una aplicación de planificación de viajesque promueve eventos de ocio y cultura al aire libre. De esta forma, todos podemos disfrutar de actividades reguladas con protocolo covid, así como compartirlas con amigos y familiares en Granada.
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor
+
+Hemos recogido las ideas del proyecto en el siguiente scope canvas. De esta forma, las principales ideas se pueden reconocer a simple vista
+
+<img align="center" src="./img/Scope canvas.png" alt="Scope canvas"/>
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis
 -----
 
->>> Definir "User Map" y "Task Flow" ...
+Es necesario pensar en los diferentes tipos de usuarios que usarán nuestra aplicación, así como las funcionalidades que emplearán. Por ello, hemos ideado el siguiente task analysis:
 
+|                                  | **Familias** | **Grupos** | **Individuos** | **Empresas** |
+|----------------------------------|--------------|------------|----------------|--------------|
+| **Registrarse**                  | H            | H          | H              | M            |
+| **Buscar servicios disponibles** | H            | H          | H              |              |
+| **Marcar punto de ruta**         | H            | H          | H              |              |
+| **Eliminar punto de ruta**       | H            | H          | H              |              |
+| **Reservar servicio**            | H            | H          | H              |              |
+| Anular servicio                  | L            | M          | L              |              |
+| Compartir ruta                   | H            | H          | L              |              |
+| Dejar reseña                     | M            | L          | M              |              |
+| Solicitar ayuda                  | M            | L          | L              | M            |
+| Modificar perfil                 | L            | L          | M              |              |
+| Cambiar interfaz                 | L            | L          | L              | L            |
+| Dar de baja un servicio          |              |            |                | L            |
+| Dar de alta un servicio          |              |            |                | H            |
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
 ----
 
+La página web funcionará como una *PWA* (Progressive Web App). De esta forma, exportarla a otros sistemas será muy sencillo.
 
->>> Identificar términos para diálogo con usuario
+La estructura del sitio es la siguiente:
 
-Término | Significado
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+<img align="center" src="./img/Sitemap.png" alt="Sitemap"/>
+
+En la siguiente tabla se recogen los términos empleados y la funcionalidad que hay recogida tras ellos:
+
+| Etiqueta              | Descripción                                                                                                                                                                                                                  |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Home                  | Página principal del sitio. Se describen las funcionalidades de la aplicación, los protocolos Covid seguidos, enlaces a los distintos lugares de la página...                                                                |
+| Iniciar sesión        | Permite a los usuarios registrarse o acceder a su cuenta con el fin de poder usar la aplicación.                                                                                                                             |
+| Búsqueda              | Listado de los servicios disponibles. Se pueden buscar las actividades y los hoteles disponibles junto con su información.                                                                                                   |
+| Sobre nosotros        | About us. Muestra información sobre los desarrolladores, así como el proyecto.                                                                                                                                               |
+| Contacta con nosotros | Información de contacto para poder recibir asistencia.                                                                                                                                                                       |
+| Preguntas frecuentes  | FAQ. Se resuelven las dudas habituales relacionadas con el uso de la aplicación, los servicios, pagos...                                                                                                                     |
+| Mapa                  | Es la principal función de la aplicación. Aquí se muestran todos los servicios disponibles en el mapa del lugar deseado. Se puede visualizar la ruta, así como compartirla y reservar tras añadir todos los puntos deseados. |
+| Dejar reseña          | El usuario añade una valoración sobre un servicio. Estas se mostrarán en el mapa.                                                                                                                                            |
+| Compartir             | Permite difundir una ruta con otras personas. No será necesario estar registrado para verla.                                                                                                                                 |
+| Reservar              | Se muestra una página similar a un carrito de la compra, con el precio de todos los servicios por separado, fechas de la reserva y el precio total.                                                                          |
+| Perfil                | Información del usuario: nombre de usuario, correo, contraseña, historial de rutas... Se puede configurar también la interfaz, como aumentar el tamaño de texto, y cambiar la paleta de colores                              |
+| Ofrece tus servicios  | Las empresas que quieran registrar sus negocios deben acceder a esta página. Enviarán un formulario con todo lo necesario para poder colgar su servicio.                                                                     |
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
