@@ -4,7 +4,7 @@
 
 Debemos idear una propuesta turística para impulsar el turismo en tiempos de pandemia en Granada. Para ello, se diseñará una supuesta aplicación de forma que se cubran las necesidades de los potenciales usuarios, **Cherry Trip**.
 
-<img align="center" src="./img/cherry_trip.png" alt="LogoCherryTrip" width="40%"/>
+<img align="center" src="./img/CherryTrip.png" alt="LogoCherryTrip" width="40%"/>
 
 
 ### Malla receptora de información
