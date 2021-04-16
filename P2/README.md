@@ -81,5 +81,27 @@ A continuación, se explica el significado de los nombres que aparecen en el sit
 
 ## Prototipo Lo-FI Wireframe
 
+Finalmente, hemos creado un prototipo de interfaz que mostraría el funcionamiento de la aplicación en el escritorio. Decidimos esquematizar únicamente las partes más importantes: la página de inicio, el mapa y la búsqueda. Consideramos que la sección *About us* es estándar y no requiere especial atención.
+
+El diseño se ha realizado en la aplicación [Figma](figma.com), la aplicación más famosa de diseño. Para algunos elementos de la interfaz se ha usado el [kit Lofi Wireframe](https://www.figma.com/community/file/887892609124245416).
+
+El resultado es el siguiente:
+
+<img align="center" src="./img/Aplicacion.png" alt="Aplicación"/>
+
+### Home page
+
+<img align="center" src="./img/Home page.png" alt="Home page"/>
+
+### Mapa
+
+<img align="center" src="./img/Mapa.png" alt="Mapa"/>
+
+### Búsqueda
+
+<img align="center" src="./img/Busqueda.png" alt="Búsqueda"/>
+
+
+
 ## Conclusiones
 (incluye valoración de esta etapa)

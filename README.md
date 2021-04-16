@@ -157,7 +157,25 @@ En la siguiente tabla se recogen los términos empleados y la funcionalidad que 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+
+Finalmente, hemos creado un prototipo de interfaz que mostraría el funcionamiento de la aplicación en el escritorio. Decidimos esquematizar únicamente las partes más importantes: la página de inicio, el mapa y la búsqueda. Consideramos que la sección *About us* es estándar y no requiere especial atención.
+
+El wireframe sería el siguiente:
+
+<img align="center" src="./P2/img/Aplicacion.png" alt="Aplicación"/>
+
+### Home page
+
+<img align="center" src="./P2/img/Home page.png" alt="Home page"/>
+
+### Mapa
+
+<img align="center" src="./P2/img/Mapa.png" alt="Mapa"/>
+
+### Búsqueda
+
+<img align="center" src="./P2/img/Busqueda.png" alt="Búsqueda"/>
+
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
