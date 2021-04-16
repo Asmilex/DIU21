@@ -2,7 +2,7 @@
 
 ## Ideación
 
-Debemos idear una propuesta turística para impulsar el turismo en tiempos de pandemia en Granada. Para ello, se diseñará una supuesta aplicación de forma que se cubran las necesidades de los potenciales usuarios.
+Debemos idear una propuesta turística para impulsar el turismo en tiempos de pandemia en Granada. Para ello, se diseñará una supuesta aplicación de forma que se cubran las necesidades de los potenciales usuarios, **Cherry Trip**.
 
 ### Malla receptora de información
 
@@ -102,6 +102,9 @@ El resultado es el siguiente:
 <img align="center" src="./img/Busqueda.png" alt="Búsqueda"/>
 
 
-
 ## Conclusiones
-(incluye valoración de esta etapa)
+A la hora de diseñar una aplicación, es muy importante tener en cuenta que no todo el mundo tiene las mismas necesidades. Éramos conscientes de esto. Para suplirlo, la creación de personas ficticias tan diversas y ponernos en su piel ha hecho que ampliemos nuestros horizontes como futuros diseñadores.
+
+Las técnicas aprendidas para valorar las posibles mejoras de una aplicación (*Empathy map* y *scope canvas*) han sido muy útiles. Gracias a ellas hemos podido apreciar las necesidades de potenciales usuarios y en base a ello desarrollar un diseño para nuestra aplicación.
+
+Para terminar, una vez recogida toda la información, y estudiando todo lo que teníamos sobre la mesa, concluimos que el layout debía ser limpio, simple, accesible y llamativo. Eso es lo que hemos intentado plasmar en la aplicación **Cherry trip**

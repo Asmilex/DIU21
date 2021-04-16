@@ -92,7 +92,10 @@ Hemos recogido las principales sensaciones e ideas que han tenido Diego y Mei en
 
 <img align="center" src="./P2/img/Feedback capture grid.png" alt="Malla receptora de información"/>
 
-Intentaremos solucionar sus problemas mediante nuestra propuesta: **Insertar nombre chulo**.
+Intentaremos solucionar sus problemas mediante nuestra propuesta: **Cherry Trip**.
+
+<img align="center" src="./P2/img/cherry_trip.png" alt="Logo Cherry Trip" width="40%"/>
+
 
 Se trata de una aplicación de planificación de viajesque promueve eventos de ocio y cultura al aire libre. De esta forma, todos podemos disfrutar de actividades reguladas con protocolo covid, así como compartirlas con amigos y familiares en Granada.
 
