@@ -94,7 +94,7 @@ Hemos recogido las principales sensaciones e ideas que han tenido Diego y Mei en
 
 Intentaremos solucionar sus problemas mediante nuestra propuesta: **Cherry Trip**.
 
-<img align="center" src="./P2/img/cherry_trip.png" alt="LogoCherryTrip" width="40%"/>
+<img align="center" src="./P2/img/cherry_trip.png" alt="Logo Cherry Trip" width="40%"/>
 
 
 Se trata de una aplicación de planificación de viajesque promueve eventos de ocio y cultura al aire libre. De esta forma, todos podemos disfrutar de actividades reguladas con protocolo covid, así como compartirlas con amigos y familiares en Granada.
