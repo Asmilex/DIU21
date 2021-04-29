@@ -33,6 +33,13 @@ A partir de las imágenes del Moodboard, elegimos la paleta de colores de Cherry
 
 Es una paleta con tonalidades pasteles, agradables y suaves, que recuerdan a los colores de un atardecer nuboso. Esto es perfecto para una aplicación de este tipo, pues resulta tan relajante como un viaje.
 
+Los códigos hexadecimales son los siguientes:
+- Blanco #FDFCFB
+- Rosáceo #FF778E
+- Verde #58BFAB
+- Azul #9DDAEC
+- Oscuro #2D314A
+
 En la práctica, necesitaríamos al menos un color más para elementos como avisos, así como definir unos 7 shades de cada tonalidad. El proceso a seguir sería similar al que muestra [RefactoringUI en su artículo](https://www.refactoringui.com/previews/building-your-color-palette).
 
 ### Iconografía
@@ -66,6 +73,15 @@ El objetivo es que **Cherry Trip pueda ser usado por cualquier persona**: ya sea
 
 
 ## Documentación: Publicación del Case Study
+
+Github pages opciones
+- Galileo theme https://github.com/rowanoulton/galileo-theme <----- es de viajes
+- Kasper https://rosario.io/2013/11/10/kasper-theme-for-jekyll.html
+- The Plain https://heiswayi.github.io/the-plain/
+- Modern Resume https://github.com/sproogen/modern-resume-theme
+- Kagami https://banana.moe/jekyll-theme-kagami/about.html
+- Scriptor https://scriptor-jekyll.netlify.app/
+-
 
 
 (incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
