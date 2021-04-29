@@ -74,6 +74,8 @@ El objetivo es que **Cherry Trip pueda ser usado por cualquier persona**: ya sea
 
 ## Documentación: Publicación del Case Study
 
+https://github.blog/2017-11-29-use-any-theme-with-github-pages/
+
 Github pages opciones
 - Galileo theme https://github.com/rowanoulton/galileo-theme <----- es de viajes
 - Kasper https://rosario.io/2013/11/10/kasper-theme-for-jekyll.html
@@ -81,7 +83,7 @@ Github pages opciones
 - Modern Resume https://github.com/sproogen/modern-resume-theme
 - Kagami https://banana.moe/jekyll-theme-kagami/about.html
 - Scriptor https://scriptor-jekyll.netlify.app/
--
+
 
 
 (incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
