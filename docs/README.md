@@ -5,8 +5,7 @@ Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 Grupo: DIU1.CherryPink.  Curso: 2020/21.
 Updated: /2/2021
 
-Proyecto:
->>> Decida el nombre corto de su propuesta en la práctica 2
+**Proyecto**: CherryTrip
 
 Descripción:
 
@@ -16,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros:
-- :bust_in_silhouette:   Andrés Millán    :octocat: www.github.com/Asmilex
-- :bust_in_silhouette:  María Sánchez     :octocat: www.github.com/LocalPinkRobin
+- :bust_in_silhouette:  Andrés Millán    :octocat: www.github.com/Asmilex
+- :bust_in_silhouette:  María Sánchez    :octocat: www.github.com/LocalPinkRobin
 
 -----
 

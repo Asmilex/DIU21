@@ -5,8 +5,7 @@ Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 Grupo: DIU1.CherryPink.  Curso: 2020/21.
 Updated: /2/2021
 
-Proyecto:
->>> Decida el nombre corto de su propuesta en la práctica 2
+**Proyecto**: CherryTrip
 
 Descripción:
 
@@ -16,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros:
-- :bust_in_silhouette:   Andrés Millán    :octocat: www.github.com/Asmilex
-- :bust_in_silhouette:  María Sánchez     :octocat: www.github.com/LocalPinkRobin
+- :bust_in_silhouette:  Andrés Millán    :octocat: www.github.com/Asmilex
+- :bust_in_silhouette:  María Sánchez    :octocat: www.github.com/LocalPinkRobin
 
 -----
 
@@ -26,8 +25,8 @@ Miembros:
 
 ## Paso 1.  UX Desk Research & Analysis
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
------
+### ![Método UX](img/Competitive.png) 1.a Competitive Analysis
+
 
 Entre las opciones de las que disponíamos, las cuales eran *Inspirock*, *Roadtrippers*, *Tripit* y *Lambus*, hemos optado por **Roadtrippers**. Los motivos son los siguientes:
 - La página web de Tripit no cargaba para María, y Andrés no podía acceder ni a Tripit ni a Inspirock.
@@ -36,37 +35,37 @@ Entre las opciones de las que disponíamos, las cuales eran *Inspirock*, *Roadtr
 
 <img align="center" src="./P1/img/Roadtrippers.png" alt="Logo de Roadtrippers"/>
 
-![Método UX](img/Persona.png) 1.b Persona
------
+### ![Método UX](img/Persona.png) 1.b Persona
+
 Hemos creado dos personas ficticias de ámbitos muy diferentes. Ambas pueden verse en la situación de usar la aplicación seleccionada, pero cada uno con sus necesidades y requerimientos únicos. Principalmente, el daltonismo de Diego, y la movilidad reducida de Mei.
 
-### [User research de Diego](./P1/img/diego.png)
+#### [User research de Diego](./P1/img/diego.png)
 
 <img align="center" src="./P1/img/diego.png" alt="Imagen de Diego"/>
 
-### [User research de Mei](./P1/img/mei.png)
+#### [User research de Mei](./P1/img/mei.png)
 
 <img align="center" src="./P1/img/mei.png" alt="Imagen de Mei"/>
 
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
-----
+### ![Método UX](img/JourneyMap.png) 1.c User Journey Map
+
 
 Las dos experiencias son ejemplo de uso de la aplicación. Sin embargo, hemos propuesto dos modelos: uno en el que el usuario sí quiere pagar, y otro en el que no. En ambos se presentan dificultades posibles en el proceso, descritas en la sección anterior.
 
 Además, se comentan brevemente algunas de las funcionalidades que presenta Roadtrippers, y si están implementadas de forma efectiva.
 
-### [Journey map de Diego](./P1/img/JM-Diego.png)
+#### [Journey map de Diego](./P1/img/JM-Diego.png)
 
 <img align="center" src="./P1/img/JM-Diego.png" alt="Journey map de Diego"/>
 
-### [Journey map de Mei](./P1/img/JM-Mei.png)
+#### [Journey map de Mei](./P1/img/JM-Mei.png)
 
 <img align="center" src="./P1/img/JM-Mei.png" alt="Journey map de Mei"/>
 
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
-----
+### ![Método UX](img/usabilityReview.png) 1.d Usability Review
+
 
 El documento se encuentra en la [carpeta P1](./P1/Usability%20review%20Roadtrippers.pdf).
 
@@ -85,8 +84,8 @@ En general, no estamos muy satisfechos con Roadtrippers desde el punto de vista 
 
 ## Paso 2. UX Design
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
-----
+### ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+
 
 Hemos recogido las principales sensaciones e ideas que han tenido Diego y Mei en la siguiente malla de información receptora:
 
@@ -101,16 +100,16 @@ Se trata de una aplicación de planificación de viajesque promueve eventos de o
 
 
 
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
-----
+### ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+
 
 Hemos recogido las ideas del proyecto en el siguiente scope canvas. De esta forma, las principales ideas se pueden reconocer a simple vista
 
 <img align="center" src="./P2/img/Scope canvas.png" alt="Scope canvas"/>
 
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis
------
+### ![Método UX](img/Sitemap.png) 2.b Tasks analysis
+
 
 Es necesario pensar en los diferentes tipos de usuarios que usarán nuestra aplicación, así como las funcionalidades que emplearán. Por ello, hemos ideado el siguiente task analysis:
 
@@ -130,8 +129,7 @@ Es necesario pensar en los diferentes tipos de usuarios que usarán nuestra apli
 | Dar de baja un servicio          |              |            |                | L            |
 | Dar de alta un servicio          |              |            |                | H            |
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
-----
+### ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
 
 La página web funcionará como una *PWA* (Progressive Web App). De esta forma, exportarla a otros sistemas será muy sencillo.
 
@@ -157,8 +155,8 @@ En la siguiente tabla se recogen los términos empleados y la funcionalidad que 
 | Ofrece tus servicios  | Las empresas que quieran registrar sus negocios deben acceder a esta página. Enviarán un formulario con todo lo necesario para poder colgar su servicio.                                                                     |
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
------
+### ![Método UX](img/Wireframes.png) 2.d Wireframes
+
 
 
 Finalmente, hemos creado un prototipo de interfaz que mostraría el funcionamiento de la aplicación en el escritorio. Decidimos esquematizar únicamente las partes más importantes: la página de inicio, el mapa y la búsqueda. Consideramos que la sección *About us* es estándar y no requiere especial atención.
@@ -167,15 +165,15 @@ El wireframe sería el siguiente:
 
 <img align="center" src="./P2/img/Aplicacion.png" alt="Aplicación"/>
 
-### Home page
+#### Home page
 
 <img align="center" src="./P2/img/Home page.png" alt="Home page"/>
 
-### Mapa
+#### Mapa
 
 <img align="center" src="./P2/img/Mapa.png" alt="Mapa"/>
 
-### Búsqueda
+#### Búsqueda
 
 <img align="center" src="./P2/img/Busqueda.png" alt="Búsqueda"/>
 
@@ -184,8 +182,8 @@ El wireframe sería el siguiente:
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
------
+### ![Método UX](img/moodboard.png) 3.a Moodboard
+
 
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard)
@@ -193,27 +191,24 @@ El wireframe sería el siguiente:
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
-----
+### ![Método UX](img/landing-page.png)  3.b Landing Page
+
 
 
 >>> Plantear Landing Page
 
-![Método UX](img/guidelines.png) 3.c Guidelines
-----
+### ![Método UX](img/guidelines.png) 3.c Guidelines
 
 >>> Estudio de Guidelines y Patrones IU a usar
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
 
-![Método UX](img/mockup.png)  3.d Mockup
-----
+### ![Método UX](img/mockup.png)  3.d Mockup
+
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
+### ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
@@ -235,12 +230,12 @@ El wireframe sería el siguiente:
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B
+| Usuarios     | Sexo/Edad | Ocupación  | Exp.TIC | Personalidad | Plataforma | TestA/B |
+|--------------|-----------|------------|---------|--------------|------------|---------|
+| User1's name | H / 18    | Estudiante | Media   | Introvertido | Web.       | A       |
+| User2's name | H / 18    | Estudiante | Media   | Timido       | Web        | A       |
+| User3's name | M / 35    | Abogado    | Baja    | Emocional    | móvil      | B       |
+| User4's name | H / 18    | Estudiante | Media   | Racional     | Web        | B       |
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
