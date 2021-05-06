@@ -185,7 +185,7 @@ En esta práctica, vamos a definir el estilo visual de nuestra aplicación. Para
 
 Empezamos creando un Moodboard, un tablón con distintas imágenes inspiracionales. Nos proporcionará un buen punto de inicio. En él, figuran algunos elementos que analizaremos con más detalle en la sección [Guidelines](##Guidelines), entre los que se encuentran la tipografía y la paleta de colores.
 
-<img align="center" src="./img/Moodboard.png" alt="Moodboard" width="100%"/>
+<img align="center" src="./img/P3/Moodboard.png" alt="Moodboard" width="100%"/>
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
@@ -203,7 +203,7 @@ La sección [Guidelines](##Guidelines) profundizará en los motivos tras estas e
 
 [Puedes visitar la landing page en este enlace](https://cherrytriplandingpage.webflow.io/). Utilizamos la herramienta [Webflow](www.webflow.io) para crearla.
 
-<img align="center" src="./img/LandingPage.jpg" alt="Landing Page" width="100%"/>
+<img align="center" src="./img/P3/LandingPage.jpg" alt="Landing Page" width="100%"/>
 
 ### ![Método UX](img/guidelines.png) 3.c Guidelines
 
@@ -213,7 +213,7 @@ En esta sección, definiremos el estilo visual de todos los componentes de la ap
 
 A partir de las imágenes del Moodboard, elegimos la paleta de colores de Cherry Trip.
 
-<img align="center" src="./img/Paleta.png" alt="Paleta de colores" width="100%"/>
+<img align="center" src="./img/P3/Paleta.png" alt="Paleta de colores" width="100%"/>
 
 Es una paleta con tonalidades pasteles, agradables y suaves, que recuerdan a los colores de un atardecer nuboso. Esto es perfecto para una aplicación de este tipo, pues resulta tan relajante como un viaje.
 
