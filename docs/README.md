@@ -252,8 +252,6 @@ Dado que nuestro case study ha tomado forma, es hora de publicarlo para que el r
 
 Github proporciona una herramienta llamada [Github Pages](https://pages.github.com/). Para simplificar el proceso y conseguir un buen diseño de base, usamos [Docsify](https://docsify.js.org/#/). Aunque está diseñada para documentación del código, podemos adaptarlo para nuestro README principal.
 
-Por motivos técnicos, tuvimos que mover este fichero a la carpeta `./docs`. Por tanto, en el README principal se incluye un enlace a este nuevo archivo.
-
 El resultado se puede ver en la página [asmilex.github.io/DIU21](https://asmilex.github.io/DIU21/#/).
 
 
