@@ -1,6 +1,6 @@
 # DIU - Practica 3, entregables
 
-En esta práctica, vamos a definir el estilo visual de nuestra aplicación. Por tanto, necesitaremos inspiración, tipografías, estilos visuales... A lo largo de este README detallaremos los pasos que hemos seguido para conseguirlo.
+En esta práctica, vamos a definir el estilo visual de nuestra aplicación. Para conseguirlo, necesitaremos inspiración, tipografías, estilos visuales... A lo largo de este README detallaremos los pasos que hemos seguido para conseguirlo.
 
 ## Moodboard (diseño visual + logotipo)
 
@@ -8,18 +8,20 @@ Empezamos creando un Moodboard, un tablón con distintas imágenes inspiracional
 
 <img align="center" src="./img/Moodboard.png" alt="Moodboard" width="100%"/>
 
+## Landing Page [(link)](https://cherrytriplandingpage.webflow.io/)
 
-## Landing Page
-
-Partiendo de nuestro [Wireframe de la práctica anterior](../P2/README.md), diseñamos la landing page. En ella, debemos declarar el objetivo del proyecto **con claridad**. Para conseguirlo, necesitamos:
+Partiendo de nuestro [Wireframe de la práctica anterior](https://github.com/Asmilex/DIU21/tree/master/P2#prototipo-lo-fi-wireframe), diseñamos la landing page. En ella, debemos presentar el objetivo del proyecto **con claridad**. Para conseguirlo, necesitamos:
 - **Un logotipo reconocible**. El nuestro lo hemos diseñado TODO
 - **Un título sugerente**, seguido de **subtítulos** en los que mostremos los principales atractivos de la aplicación.
-- Los anteriores puntos deben ir acompañados de elementos gráficos que refuercen el significado.
-- El diseño de la página es del tipo scroll suave continuo, de forma que los alicientes se descubren poco a poco. Esto permite centrar la atención a un único punto a la vez.
+- Elementos gráficos que refuercen el significado.
+
+El diseño de la página es del tipo scroll suave continuo, de forma que los alicientes se descubren poco a poco. Esto permite centrar la atención a unos pocos puntos a la vez.
 
 La sección [Guidelines](##Guidelines) profundizará en los motivos tras estas elecciones.
 
-<img align="center" src="./img/LandingPage.png" alt="Landing Page" width="100%"/>
+[Puedes visitar la landing page en este enlace](https://cherrytriplandingpage.webflow.io/). Utilizamos la herramienta [Webflow](www.webflow.io) para crearla.
+
+<img align="center" src="./img/LandingPage.jpg" alt="Landing Page" width="100%"/>
 
 ## Guidelines
 
@@ -34,17 +36,20 @@ A partir de las imágenes del Moodboard, elegimos la paleta de colores de Cherry
 Es una paleta con tonalidades pasteles, agradables y suaves, que recuerdan a los colores de un atardecer nuboso. Esto es perfecto para una aplicación de este tipo, pues resulta tan relajante como un viaje.
 
 Los códigos hexadecimales son los siguientes:
-- Blanco #FDFCFB
-- Rosáceo #FF778E
-- Verde #58BFAB
-- Azul #9DDAEC
-- Oscuro #2D314A
+
+- **Blanco** `#FDFCFB`
+- **Ultra rojo** `#FF778E`
+- **Jade** `#58BFAB`
+- **Azul** `#9DDAEC`
+- **Cadete espacial** `#2D314A`
+
+
 
 En la práctica, necesitaríamos al menos un color más para elementos como avisos, así como definir unos 7 shades de cada tonalidad. El proceso a seguir sería similar al que muestra [RefactoringUI en su artículo](https://www.refactoringui.com/previews/building-your-color-palette).
 
 ### Iconografía
 
-Hemos escogido los iconos [Ionicos](https://ionicons.com/) para la aplicación, puesto que son muy legibles y minimalistas. Idóneo para el branding de Cherry Trip.
+Hemos escogido los iconos [Ionicons](https://ionicons.com/) para la aplicación, puesto que son muy legibles y minimalistas. Idóneo para el branding de Cherry Trip.
 
 Las imágenes que aparecen en la landing page han sido generadas por [Undraw](https://undraw.co). Es una página que produce diseños con un color específico indicado. Son sencillos, elegantes, gratuitos y personalizables con nuestra paleta de colores.
 
@@ -59,8 +64,7 @@ Principalmente se usarán dos tipografías, y se incluirá opción de escoger do
 
 ### Patrón de diseño
 
-TODO Neumorfismo?
-
+Hemos utilizado una combinación de dos patrones de diseño: para la landing page, Webflow nos proporcionó un diseño similar al de las versiones antiguas de Material Design. Para el mockup High-Fi, hemos decidido implementar una variante casera del [Neumorfismo](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6) que se está poniendo de moda.
 
 ### Estilo de lenguaje
 
@@ -74,16 +78,15 @@ El objetivo es que **Cherry Trip pueda ser usado por cualquier persona**: ya sea
 
 ## Documentación: Publicación del Case Study
 
-https://github.blog/2017-11-29-use-any-theme-with-github-pages/
+Dado que nuestro case study ha tomado forma, es hora de publicarlo para que el resto de personas puedan leerlo.
 
-Github pages opciones
-- Galileo theme https://github.com/rowanoulton/galileo-theme <----- es de viajes
-- Kasper https://rosario.io/2013/11/10/kasper-theme-for-jekyll.html
-- The Plain https://heiswayi.github.io/the-plain/
-- Modern Resume https://github.com/sproogen/modern-resume-theme
-- Kagami https://banana.moe/jekyll-theme-kagami/about.html
-- Scriptor https://scriptor-jekyll.netlify.app/
+Github proporciona una herramienta llamada [Github Pages](https://pages.github.com/). Para simplificar el proceso y conseguir un buen diseño de base, usamos [Docsify](https://docsify.js.org/#/). Aunque está diseñada para documentación del código, podemos adaptarlo para nuestro README principal.
+
+Por motivos técnicos, tuvimos que mover este fichero a la carpeta `./docs`. Por tanto, en el README principal se incluye un enlace a este nuevo archivo.
+
+El resultado se puede ver en la página [asmilex.github.io/DIU21](https://asmilex.github.io/DIU21/#/).
 
 
+## Valoración
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+En general, esta práctica nos ha parecido la más complicada de todas. El proceso creativo requerido para construir una imagen de una entidad es largo y complejo. Simplificarlo todo en unas cuantas semanas e introduciendo además bocetos en alta resolución es difícil. Sin embargo, consideramos que hemos hecho un trabajo sólido.
