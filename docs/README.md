@@ -33,19 +33,19 @@ Entre las opciones de las que disponíamos, las cuales eran *Inspirock*, *Roadtr
 - Lambus necesitaba instalar aplicación en Android.
 - Roadtrippers es elegante y dispone de interfaz web, por lo que nos ha resultado la más llamativa.
 
-<img align="center" src="./P1/img/Roadtrippers.png" alt="Logo de Roadtrippers"/>
+<img align="center" src="./img/P1/Roadtrippers.png" alt="Logo de Roadtrippers"/>
 
 ### ![Método UX](img/Persona.png) 1.b Persona
 
 Hemos creado dos personas ficticias de ámbitos muy diferentes. Ambas pueden verse en la situación de usar la aplicación seleccionada, pero cada uno con sus necesidades y requerimientos únicos. Principalmente, el daltonismo de Diego, y la movilidad reducida de Mei.
 
-#### [User research de Diego](./P1/img/diego.png)
+#### [User research de Diego](./img/P1/diego.png)
 
-<img align="center" src="./P1/img/diego.png" alt="Imagen de Diego"/>
+<img align="center" src="./img/P1/diego.png" alt="Imagen de Diego"/>
 
-#### [User research de Mei](./P1/img/mei.png)
+#### [User research de Mei](./img/P1/mei.png)
 
-<img align="center" src="./P1/img/mei.png" alt="Imagen de Mei"/>
+<img align="center" src="./img/P1/mei.png" alt="Imagen de Mei"/>
 
 
 ### ![Método UX](img/JourneyMap.png) 1.c User Journey Map
@@ -55,13 +55,13 @@ Las dos experiencias son ejemplo de uso de la aplicación. Sin embargo, hemos pr
 
 Además, se comentan brevemente algunas de las funcionalidades que presenta Roadtrippers, y si están implementadas de forma efectiva.
 
-#### [Journey map de Diego](./P1/img/JM-Diego.png)
+#### [Journey map de Diego](./img/P1/JM-Diego.png)
 
-<img align="center" src="./P1/img/JM-Diego.png" alt="Journey map de Diego"/>
+<img align="center" src="./img/P1/JM-Diego.png" alt="Journey map de Diego"/>
 
-#### [Journey map de Mei](./P1/img/JM-Mei.png)
+#### [Journey map de Mei](./img/P1/JM-Mei.png)
 
-<img align="center" src="./P1/img/JM-Mei.png" alt="Journey map de Mei"/>
+<img align="center" src="./img/P1/JM-Mei.png" alt="Journey map de Mei"/>
 
 
 ### ![Método UX](img/usabilityReview.png) 1.d Usability Review
@@ -77,7 +77,7 @@ Sin embargo, existen una serie de problemas importantes que debemos destacar:
 - El sistema de layers que usan para la gestión de la ruta necesita refinamiento. Algunas acciones básicas están escondidas detrás de elementos visuales ocultos a priori, como eliminar un punto de la ruta. Las capas no están bien integradas del todo, ni se justifica su existencia. Podrían haber sido sustituidas por un simple filtro.
 - Si no se paga, la cantidad de puntos de ruta que se pueden añadir es mínima. Tanto, que no merece mucho la pena usarla.
 
-Debemos hacer especial mención a la paleta de colores seleccionada por los desarrolladores. Se puede observar que, [incluso simulando los distintos tipos de daltonismo que tienen los usuarios](./P1/img/paleta/), la web sigue siendo usable. Consideramos esto un punto muy importante, pues uno de nuestras personas presenta este matiz. Las fotografías se han conseguido gracias a la web [color-blindness](https://www.color-blindness.com/coblis-color-blindness-simulator/).
+Debemos hacer especial mención a la paleta de colores seleccionada por los desarrolladores. Se puede observar que, [incluso simulando los distintos tipos de daltonismo que tienen los usuarios](./img/P1/paleta/), la web sigue siendo usable. Consideramos esto un punto muy importante, pues uno de nuestras personas presenta este matiz. Las fotografías se han conseguido gracias a la web [color-blindness](https://www.color-blindness.com/coblis-color-blindness-simulator/).
 
 En general, no estamos muy satisfechos con Roadtrippers desde el punto de vista del turismo en España, pero entendemos que hay potencial para países del extranjero. La valoración es de un 85 (Good).
 
@@ -89,11 +89,11 @@ En general, no estamos muy satisfechos con Roadtrippers desde el punto de vista 
 
 Hemos recogido las principales sensaciones e ideas que han tenido Diego y Mei en la siguiente malla de información receptora:
 
-<img align="center" src="./P2/img/Feedback capture grid.png" alt="Malla receptora de información"/>
+<img align="center" src="./img/P2/Feedback capture grid.png" alt="Malla receptora de información"/>
 
 Intentaremos solucionar sus problemas mediante nuestra propuesta: **Cherry Trip**.
 
-<img align="center" src="./P2/img/CherryTrip.png" alt="Logo Cherry Trip" width="40%"/>
+<img align="center" src="./img/P2/CherryTrip.png" alt="Logo Cherry Trip" width="40%"/>
 
 
 Se trata de una aplicación de planificación de viajesque promueve eventos de ocio y cultura al aire libre. De esta forma, todos podemos disfrutar de actividades reguladas con protocolo covid, así como compartirlas con amigos y familiares en Granada.
@@ -105,7 +105,7 @@ Se trata de una aplicación de planificación de viajesque promueve eventos de o
 
 Hemos recogido las ideas del proyecto en el siguiente scope canvas. De esta forma, las principales ideas se pueden reconocer a simple vista
 
-<img align="center" src="./P2/img/Scope canvas.png" alt="Scope canvas"/>
+<img align="center" src="./img/P2/Scope canvas.png" alt="Scope canvas"/>
 
 
 ### ![Método UX](img/Sitemap.png) 2.b Tasks analysis
@@ -135,7 +135,7 @@ La página web funcionará como una *PWA* (Progressive Web App). De esta forma, 
 
 La estructura del sitio es la siguiente:
 
-<img align="center" src="./P2/img/Sitemap.png" alt="Sitemap"/>
+<img align="center" src="./img/P2/Sitemap.png" alt="Sitemap"/>
 
 En la siguiente tabla se recogen los términos empleados y la funcionalidad que hay recogida tras ellos:
 
@@ -163,19 +163,19 @@ Finalmente, hemos creado un prototipo de interfaz que mostraría el funcionamien
 
 El wireframe sería el siguiente:
 
-<img align="center" src="./P2/img/Aplicacion.png" alt="Aplicación"/>
+<img align="center" src="./img/P2/Aplicacion.png" alt="Aplicación"/>
 
 #### Home page
 
-<img align="center" src="./P2/img/Home page.png" alt="Home page"/>
+<img align="center" src="./img/P2/Home page.png" alt="Home page"/>
 
 #### Mapa
 
-<img align="center" src="./P2/img/Mapa.png" alt="Mapa"/>
+<img align="center" src="./img/P2/Mapa.png" alt="Mapa"/>
 
 #### Búsqueda
 
-<img align="center" src="./P2/img/Busqueda.png" alt="Búsqueda"/>
+<img align="center" src="./img/P2/Busqueda.png" alt="Búsqueda"/>
 
 
 
