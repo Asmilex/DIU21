@@ -1,14 +1,16 @@
 # DIU21
 
-**Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)**
+**Prácticas Diseño Interfaces de Usuario 2020-21**. Tema: Turismo.
 
-> **Grupo**: DIU1.CherryPink.  Curso: 2020/21.
+> **Grupo**: DIU1.CherryPink. Curso: 2020/21.
+
 > **Proyecto**: CherryTrip
+
 > **Descripción**: Aplicación de viajes en la provincia de Granada ideada para la era pandémica. Accesible para todos.
 
-Miembros:
-- :bust_in_silhouette:  Andrés Millán    :octocat: www.github.com/Asmilex
-- :bust_in_silhouette:  María Sánchez    :octocat: www.github.com/LocalPinkRobin
+> **Miembros**:
+> - :bust_in_silhouette:  **Andrés Millán**    :octocat: www.github.com/Asmilex
+> - :bust_in_silhouette:  **María Sánchez**    :octocat: www.github.com/LocalPinkRobin
 
 -----
 
