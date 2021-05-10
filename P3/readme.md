@@ -6,7 +6,7 @@ En esta práctica, vamos a definir el estilo visual de nuestra aplicación. Para
 
 Empezamos creando un Moodboard, un tablón con distintas imágenes inspiracionales. Nos proporcionará un buen punto de inicio. En él, figuran algunos elementos que analizaremos con más detalle en la sección [Guidelines](##Guidelines), entre los que se encuentran la tipografía y la paleta de colores.
 
-<img align="center" src="./img/Moodboard.png" alt="Moodboard" width="100%"/>
+<img align="center" src="./img/Moodboard.jpg" alt="Moodboard" width="100%"/>
 
 ## Landing Page [(link)](https://cherrytriplandingpage.webflow.io/)
 
@@ -27,6 +27,22 @@ La sección [Guidelines](##Guidelines) profundizará en los motivos tras estas e
 
 En esta sección, definiremos el estilo visual de todos los componentes de la aplicación.
 
+### Logotipo
+
+Durante del desarollo, ideamos varias versiones de nuestro logotipo. Al principio, teníamos el siguiente:
+
+<img align="center" src="../P2/img/Logo viejo.png" alt="Logotipo viejo" width="30%"/>
+
+Finalmente, diseñamos el siguiente:
+
+<img align="center" src="./img/Logo3.png" alt="Logitipo" width="100%"/>
+
+Esta imagen permite presentar la marca de distintas formas, lo que nos proporciona una gran versalitidad:
+
+<img align="center" src="./img/Logo1.png" alt="Logitipo" width="25%"/>
+<img align="center" src="./img/Logo2.png" alt="Logitipo" width="25%"/>
+<img align="center" src="./img/Logo4.png" alt="Logitipo" width="40%"/>
+
 ### Paleta de colores
 
 A partir de las imágenes del Moodboard, elegimos la paleta de colores de Cherry Trip.
@@ -42,8 +58,6 @@ Los códigos hexadecimales son los siguientes:
 - **Jade** `#58BFAB`
 - **Azul** `#9DDAEC`
 - **Cadete espacial** `#2D314A`
-
-
 
 En la práctica, necesitaríamos al menos un color más para elementos como avisos, así como definir unos 7 shades de cada tonalidad. El proceso a seguir sería similar al que muestra [RefactoringUI en su artículo](https://www.refactoringui.com/previews/building-your-color-palette).
 

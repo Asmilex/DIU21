@@ -178,7 +178,7 @@ En esta práctica, vamos a definir el estilo visual de nuestra aplicación. Para
 
 Empezamos creando un Moodboard, un tablón con distintas imágenes inspiracionales. Nos proporcionará un buen punto de inicio. En él, figuran algunos elementos que analizaremos con más detalle en la sección [Guidelines](##Guidelines), entre los que se encuentran la tipografía y la paleta de colores.
 
-<img align="center" src="./img/P3/Moodboard.png" alt="Moodboard" width="100%"/>
+<img align="center" src="./img/P3/Moodboard.jpg" alt="Moodboard" width="100%"/>
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
@@ -201,6 +201,21 @@ La sección [Guidelines](##Guidelines) profundizará en los motivos tras estas e
 ### ![Método UX](img/guidelines.png) 3.c Guidelines
 
 En esta sección, definiremos el estilo visual de todos los componentes de la aplicación.
+
+
+#### Logotipo
+
+Durante del desarollo, ideamos varias versiones de nuestro logotipo. Al principio, teníamos el siguiente. Finalmente, diseñamos el siguiente:
+
+<img align="center" src="./img/P2/Logo3.png" alt="Logitipo" width="100%"/>
+
+Esta imagen permite presentar la marca de distintas formas, lo que nos proporciona una gran versalitidad:
+
+<img align="center" src="./img/P2/Logo1.png" alt="Logitipo" width="25%"/>
+<img align="center" src="./img/P2/Logo2.png" alt="Logitipo" width="25%"/>
+<img align="center" src="./img/P2/Logo4.png" alt="Logitipo" width="40%"/>
+
+
 
 #### Paleta de colores
 
@@ -252,7 +267,6 @@ El resultado se puede ver en la página [asmilex.github.io/DIU21](https://asmile
 
 
 ### ![Método UX](img/ABtesting.png) 4.a Caso asignado
-
 
 
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
