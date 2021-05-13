@@ -30,7 +30,7 @@ Planteamos dos experiencias distintas para Diego y Mei:
 
 ## Usability review
 
-El documento se encuentra en la [carpeta P1](./P1/Usability%20review%20Roadtrippers.pdf).
+El documento se encuentra en la [carpeta P1](./Usability%20review%20Roadtrippers.pdf).
 
 En general, la aplicación es muy intuitiva de usar. Los mapas presentan claramente la ruta, marcan puntos de interés, y permite mirar rápidamente hoteles.
 
