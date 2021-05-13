@@ -86,7 +86,7 @@ Hemos recogido las principales sensaciones e ideas que han tenido Diego y Mei en
 
 Intentaremos solucionar sus problemas mediante nuestra propuesta: **Cherry Trip**.
 
-<img align="center" src="./img/P2/CherryTrip.png" alt="Logo Cherry Trip" width="40%"/>
+<img align="center" src="./img/P3/Logo3.png" alt="Logo Cherry Trip" width="40%"/>
 
 
 Se trata de una aplicación de planificación de viajesque promueve eventos de ocio y cultura al aire libre. De esta forma, todos podemos disfrutar de actividades reguladas con protocolo covid, así como compartirlas con amigos y familiares en Granada.
@@ -211,9 +211,9 @@ Durante del desarollo, ideamos varias versiones de nuestro logotipo. Al principi
 
 Esta imagen permite presentar la marca de distintas formas, lo que nos proporciona una gran versalitidad:
 
-<img align="center" src="./img/P2/Logo1.png" alt="Logitipo" width="25%"/>
-<img align="center" src="./img/P2/Logo2.png" alt="Logitipo" width="25%"/>
-<img align="center" src="./img/P2/Logo4.png" alt="Logitipo" width="40%"/>
+<img align="center" src="./img/P3/Logo1.png" alt="Logitipo" width="25%"/>
+<img align="center" src="./img/P3/Logo2.png" alt="Logitipo" width="25%"/>
+<img align="center" src="./img/P3/Logo4.png" alt="Logitipo" width="40%"/>
 
 
 
