@@ -1,6 +1,6 @@
 # Práctica 1. UX Desk Research and Analysis
 
-## [Competitive analysis](./img/Competitive_analysis.png)
+## [Competitive analysis](../docs/img/P1/Competitive_analysis.png)
 
 Hemos analizado las principales herramientas que se nos han presentado, las cuales son *Inspirock*, *Roadtrippers*, *Tripit* y *Lambus*. En el estudio, hemos sintetizado las principales características que nos ofrece cada una, destacando sus puntos fuertes y débiles.
 
@@ -14,9 +14,9 @@ Finalmente, nos quedamos con  **Roadtrippers**, por los motivos que se enumeran 
 
 Hemos creado dos personas que potencialmente podrían usar la herramienta. Ambos tienen intereses que cubre nuestra aplicación, así como matices personales importantes que deben ser cubiertos.
 
-La primera persona es [Diego](img/diego.png), un joven de 36 años casado y con hijos al que le apasiona la fotografía natural. Desea viajar y descubrir nuevos lugares que fotografiar. Su daltonismo y su impaciencia caracterizará la experiencia de usuario.
+La primera persona es [Diego](../docs/img/P1/diego.png), un joven de 36 años casado y con hijos al que le apasiona la fotografía natural. Desea viajar y descubrir nuevos lugares que fotografiar. Su daltonismo y su impaciencia caracterizará la experiencia de usuario.
 
-La segunda es [Mei](img/mei.png), una joven de 19 años con madre asiático y padre gallego. Desafortunadamente, nació con una discapacidad motora que le impide caminar. Le encanta el K-pop, por lo que quiere ser diseñadora para alguno de los grupos famosos de allí.
+La segunda es [Mei](../docs/img/P1/mei.png), una joven de 19 años con madre asiático y padre gallego. Desafortunadamente, nació con una discapacidad motora que le impide caminar. Le encanta el K-pop, por lo que quiere ser diseñadora para alguno de los grupos famosos de allí.
 
 Ambos personas son muy interesantes. Presentan perfiles totalmente distintos para un posible uso de la aplicación.
 
@@ -24,9 +24,9 @@ Ambos personas son muy interesantes. Presentan perfiles totalmente distintos par
 
 Planteamos dos experiencias distintas para Diego y Mei:
 
-[Diego](img/JM-Diego.png) quiere visitar tanto playa como montaña para desconectar de Madrid. Sin embargo, no quiere pagar. Su experiencia será negativa, dado que busca turismo nacional.
+[Diego](../docs/img/P1/JM-Diego.png) quiere visitar tanto playa como montaña para desconectar de Madrid. Sin embargo, no quiere pagar. Su experiencia será negativa, dado que busca turismo nacional.
 
-[Mei](img/JM-Mei.png) busca hacer un viaje con su familia a Suzhou. La planificación del viaje estará caracterizada por la necesidad de buscar lugares accesibles con silla de ruedas. El viaje será exitoso.
+[Mei](../docs/img/P1/JM-Mei.png) busca hacer un viaje con su familia a Suzhou. La planificación del viaje estará caracterizada por la necesidad de buscar lugares accesibles con silla de ruedas. El viaje será exitoso.
 
 ## Usability review
 
@@ -40,6 +40,6 @@ Sin embargo, existen una serie de problemas importantes que debemos destacar:
 - El sistema de layers que usan para la gestión de la ruta necesita refinamiento. Algunas acciones básicas están escondidas detrás de elementos visuales ocultos a priori, como eliminar un punto de la ruta. Las capas no están bien integradas del todo, ni se justifica su existencia. Podrían haber sido sustituidas por un simple filtro.
 - Si no se paga, la cantidad de puntos de ruta que se pueden añadir es ínfima. Tanto, que no merece mucho la pena usarla.
 
-Debemos hacer especial mención a la paleta de colores seleccionada por los desarrolladores. Se puede observar que, [incluso simulando los distintos tipos de daltonismo que tienen los usuarios](./P1/img/paleta/), la web sigue siendo usable. Consideramos esto un punto muy importante, pues uno de nuestras personas presenta este matiz. Las fotografías se han conseguido gracias a la web [color-blindness](https://www.color-blindness.com/coblis-color-blindness-simulator/).
+Debemos hacer especial mención a la paleta de colores seleccionada por los desarrolladores. Se puede observar que, [incluso simulando los distintos tipos de daltonismo que tienen los usuarios](../docs/img/P1/paleta), la web sigue siendo usable. Consideramos esto un punto muy importante, pues uno de nuestras personas presenta este matiz. Las fotografías se han conseguido gracias a la web [color-blindness](https://www.color-blindness.com/coblis-color-blindness-simulator/).
 
 En general, no estamos muy satisfechos con Roadtrippers desde el punto de vista del turismo en España, pero entendemos que hay potencial para países del extranjero. La valoración es de un 85 (Good).

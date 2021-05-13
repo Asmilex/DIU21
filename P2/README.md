@@ -4,14 +4,14 @@
 
 Debemos idear una propuesta turística para impulsar el turismo en tiempos de pandemia en Granada. Para ello, se diseñará una supuesta aplicación de forma que se cubran las necesidades de los potenciales usuarios, **Cherry Trip**.
 
-<img align="center" src="./img/Logo3.png" alt="Logo CherryTrip" width="100%"/>
+<img align="center" src="../docs/img/P2/Logo3.png" alt="Logo CherryTrip" width="100%"/>
 
 
 ### Malla receptora de información
 
 Hemos decidido crear una malla receptora a partir de la experiencia de nuestras dos personas de la práctica anterior: Diego y Mei. Hemos considerado ésta la mejor opción, pues nos permite identificar de un vistazo rápido las conclusiones de su viaje.
 
-<img align="center" src="./img/Feedback capture grid.png" alt="Malla receptora de información"/>
+<img align="center" src="../docs/img/P2/Feedback capture grid.png" alt="Malla receptora de información"/>
 
 ## Propuesta de valor
 
@@ -23,7 +23,7 @@ Hemos diseñado un roadmap para el desarrollo de la app. Consideramos primordial
 
 Mediremos el éxito de la aplicación mediante los informes ofrecidos por los proveedores de servicios (por ejemplo: tránsito de gente que viene desde nuestra app), feedback de los usuarios e ingresos.
 
-<img align="center" src="./img/Scope canvas.png" alt="Scope canvas"/>
+<img align="center" src="../docs/img/P2/Scope canvas.png" alt="Scope canvas"/>
 
 ## Task analysis
 
@@ -59,7 +59,7 @@ Las tareas fundamentales están marcadas en negrita.
 
 Nuestra propuesta de diseño de la web es la siguiente:
 
-<img align="center" src="./img/Sitemap.png" alt="Sitemap"/>
+<img align="center" src="../docs/img/P2/Sitemap.png" alt="Sitemap"/>
 
 Es una construcción estándar y similar a las webs modernas de hoy en día. Claramente se distinguen las partes funcionales de la aplicación, y las de contacto y ayuda.
 
@@ -90,19 +90,19 @@ El diseño se ha realizado en la aplicación [Figma](figma.com), la aplicación 
 
 El resultado es el siguiente:
 
-<img align="center" src="./img/Aplicacion.png" alt="Aplicación"/>
+<img align="center" src="../docs/img/P2/Aplicacion.png" alt="Aplicación"/>
 
 ### Home page
 
-<img align="center" src="./img/Home page.png" alt="Home page"/>
+<img align="center" src="../docs/img/P2/Home page.png" alt="Home page"/>
 
 ### Mapa
 
-<img align="center" src="./img/Mapa.png" alt="Mapa"/>
+<img align="center" src="../docs/img/P2/Mapa.png" alt="Mapa"/>
 
 ### Búsqueda
 
-<img align="center" src="./img/Busqueda.png" alt="Búsqueda"/>
+<img align="center" src="../docs/img/P2/Busqueda.png" alt="Búsqueda"/>
 
 
 ## Conclusiones
