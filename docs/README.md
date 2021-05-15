@@ -257,7 +257,24 @@ El objetivo es que **Cherry Trip pueda ser usado por cualquier persona**: ya sea
 
 ### ![Método UX](img/mockup.png)  3.d Mockup
 
-A raíz de los prototipos diseñados en el 
+Pensamos que los prototipos diseñados en el Wireframe tenían potencial así que decidimos desarrollarlos. A continuación mostraremos 5 posinbles pantallas de la aplicación:
+
+
+Imagen del mapa la primera vez que entramos en la aplicación:
+<img align="center" src="./img/P3/Mapa (Default).png" alt="Mapa por defecto"/>
+
+Mapa tras insertar la ciudad en la que queremos realizar nuestra actividad + paneles de selección de actividades y rutas:
+<img align="center" src="./img/P3/Mapa (Tras búsqueda).png" alt="Mapa de ciudad"/>
+
+Pantalla de búsqueda por actividades/hoteles/restaurantes, por si le quieres dar prioridad a esta búsqueda en vez de a la ciudad donde realizarla:
+<img align="center" src="./img/P3/Búsqueda.png" alt="Búsqueda"/>
+
+Métodos de pago actualizados a las nuevas tecnologías:
+<img align="center" src="./img/P3/Métodos de pago.png" alt="Métodos de pago"/>
+
+Ajustes de usuario que incluyen personalización para la mejor adaptación y experiencia de usuario:
+<img align="center" src="./img/P3/Opciones de usuario.png" alt="Métodos de pago"/>
+
 
 ### ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 
