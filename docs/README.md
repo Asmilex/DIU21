@@ -207,7 +207,7 @@ En esta sección, definiremos el estilo visual de todos los componentes de la ap
 
 Durante del desarollo, ideamos varias versiones de nuestro logotipo. Al principio, teníamos el siguiente.
 
-<img align="center" src="./img/P2/Logoviejo.png" alt="Logotipo" width="75%"/>
+<img align="center" src="./img/P2/Logoviejo.png" alt="Logotipo" width="30%"/>
 
 
 Finalmente, diseñamos el siguiente:
@@ -257,7 +257,7 @@ El objetivo es que **Cherry Trip pueda ser usado por cualquier persona**: ya sea
 
 ### ![Método UX](img/mockup.png)  3.d Mockup
 
-Pensamos que los prototipos diseñados en el Wireframe tenían potencial así que decidimos desarrollarlos. A continuación mostraremos 5 posinbles pantallas de la aplicación:
+Pensamos que los prototipos diseñados en el Wireframe tenían potencial así que decidimos desarrollarlos. A continuación mostraremos 5 posibles pantallas de la aplicación:
 
 
 Imagen del mapa la primera vez que entramos en la aplicación:

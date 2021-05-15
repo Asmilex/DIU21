@@ -31,7 +31,8 @@ En esta sección, definiremos el estilo visual de todos los componentes de la ap
 
 Durante del desarollo, ideamos varias versiones de nuestro logotipo. Al principio, teníamos el siguiente:
 
-<img align="center" src="../P2/img/Logo viejo.png" alt="Logotipo viejo" width="30%"/>
+<img align="center" src="../docs/img/P2/Logoviejo.png" alt="Logotipo" width="30%"/>
+
 
 Finalmente, diseñamos el siguiente:
 
@@ -88,6 +89,27 @@ El objetivo es que **Cherry Trip pueda ser usado por cualquier persona**: ya sea
 
 
 ## Mockup: LAYOUT HI-FI
+
+
+Pensamos que los prototipos diseñados en el Wireframe con la herramienta Figma tenían potencial así que decidimos desarrollarlos. A continuación mostraremos 5 posibles pantallas de la aplicación:
+
+
+Imagen del mapa la primera vez que entramos en la aplicación:
+<img align="center" src="../docs/img/P3/Mapa (Default).png" alt="Mapa por defecto"/>
+
+Mapa tras insertar la ciudad en la que queremos realizar nuestra actividad + paneles de selección de actividades y rutas:
+<img align="center" src="../docs/img/P3/Mapa (Tras búsqueda).png" alt="Mapa de ciudad"/>
+
+Pantalla de búsqueda por actividades/hoteles/restaurantes, por si le quieres dar prioridad a esta búsqueda en vez de a la ciudad donde realizarla:
+<img align="center" src="../docs/img/P3/Búsqueda.png" alt="Búsqueda"/>
+
+Métodos de pago actualizados a las nuevas tecnologías:
+<img align="center" src="../docs/img/P3/Métodos de pago.png" alt="Métodos de pago"/>
+
+Ajustes de usuario que incluyen personalización para la mejor adaptación y experiencia de usuario:
+<img align="center" src="../docs/img/P3/Opciones de usuario.png" alt="Métodos de pago"/>
+
+Hemos intentado que el estilo se conserve sin importar en que pantalla de la aplicación estemos, que sea claro e intuitivo y que se visualmente atractivo.
 
 
 ## Documentación: Publicación del Case Study
