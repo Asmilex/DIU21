@@ -205,15 +205,20 @@ En esta sección, definiremos el estilo visual de todos los componentes de la ap
 
 #### Logotipo
 
-Durante del desarollo, ideamos varias versiones de nuestro logotipo. Al principio, teníamos el siguiente. Finalmente, diseñamos el siguiente:
+Durante del desarollo, ideamos varias versiones de nuestro logotipo. Al principio, teníamos el siguiente.
 
-<img align="center" src="./img/P2/Logo3.png" alt="Logitipo" width="100%"/>
+<img align="center" src="./img/P2/Logoviejo.png" alt="Logotipo" width="75%"/>
+
+
+Finalmente, diseñamos el siguiente:
+
+<img align="center" src="./img/P2/Logo3.png" alt="Logotipo" width="100%"/>
 
 Esta imagen permite presentar la marca de distintas formas, lo que nos proporciona una gran versalitidad:
 
-<img align="center" src="./img/P3/Logo1.png" alt="Logitipo" width="25%"/>
-<img align="center" src="./img/P3/Logo2.png" alt="Logitipo" width="25%"/>
-<img align="center" src="./img/P3/Logo4.png" alt="Logitipo" width="40%"/>
+<img align="center" src="./img/P3/Logo1.png" alt="Logotipo" width="25%"/>
+<img align="center" src="./img/P3/Logo2.png" alt="Logotipo" width="25%"/>
+<img align="center" src="./img/P3/Logo4.png" alt="Logotipo" width="40%"/>
 
 
 
@@ -252,7 +257,7 @@ El objetivo es que **Cherry Trip pueda ser usado por cualquier persona**: ya sea
 
 ### ![Método UX](img/mockup.png)  3.d Mockup
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+A raíz de los prototipos diseñados en el 
 
 ### ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 
