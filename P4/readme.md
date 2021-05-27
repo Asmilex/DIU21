@@ -1,29 +1,13 @@
 # DIU - Practica 4, entregables
 
-Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
+## Roleplaying: los usuarios encuestados
 
+## Resultados de SUS para CherryTrip
 
-## Caso 1
+## SUS y Case Study de Mira2
 
-Descripcion y hoja de valoración.    
+Las puntuaciones de los usuarios 3 y 4 para Mira2 han sido de 57.5 y 77.5 respectivamente.
 
-
-## Caso 2
-
-Descripcion y hoja de valoración.  
-
-
-## Caso 3
-
-Descripcion y hoja de valoración.   
-
-## User Testing
-
-	Describe la experiencia 1
-
-	Describe la experiencia 2
-
-	Describe la experiencia 3
-
+En esta sección, mostraremos los motivos por los que podrían haber obtenido 
 
 ## Conclusiones
