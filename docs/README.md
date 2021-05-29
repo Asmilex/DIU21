@@ -328,7 +328,7 @@ En la siguiente sección comentaremos los resultados obtenidos para Mira2.
 
 ### ![Método UX](img/usability-report.png) 4.d Usability Report
 
-Por último, realizamos un estudio de la aplicación Mira2, el cual puede leerse con detenimiento en [este enlace](https://github.com/Asmilex/DIU21/blob/master/P4/SUS%20y%20Usability%20Report%20de%20Mira2.pdf).
+Por último, realizamos un estudio de la aplicación Mira2, el cual puede leerse con detenimiento en [este enlace](https://github.com/Asmilex/DIU21/blob/master/P4/P4_UsabReport_%7BAfterWork%7D_doneby_DIU1_CherryPink.pdf).
 
 
 ## Conclusión final / Valoración de las prácticas
