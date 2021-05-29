@@ -25,6 +25,8 @@ Para realizar un análisis de ambas aplicaciones, usaremos un cuestionario SUS. 
 
 Los resultados obtenidos se encuentran en [el siguiente fichero](Cuestionario%20SUS%20DIU.xlsx).
 
+<img align="center" src="../docs/img/P4/cuestionarioSUS.png" alt="Métodos de pago"/>
+
 ## SUS y Usability Report de Mira2
 
 > Evaluadores: CherryPink
