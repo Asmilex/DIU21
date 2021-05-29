@@ -101,7 +101,7 @@ El contenido de la aplicación es correcto. Los lugares son claramente identific
 El cuestionario SUS refleja claramente las principales emociones que sienten los usuarios de la aplicación. Es una app sencilla, intuitiva, pero con poco contenido. Necesitaría más contenido para poder expandirse en su sector. Además, existen diferentes aspectos que se deben mejorar inmediatamente, para ser accesible para todas las personas. Solucionando estos detalles, este podría ser un buen producto.
 
 
-Además estudiando las respuestas de los usuarios en sus encuestas podemos afirmar lo siguiente:
+Además estudiando las respuestas de los usuarios en las encuestas de ambas aplicaciones podemos afirmar lo siguiente:
 
 - Es muy importante una interfaz clara que permita la localización de los elementos rápidamente. No podemos sobrecargar una página aportando datos que creemos que son necesarios pero que realmente solo ensucian la experiencia de usuario.
 
