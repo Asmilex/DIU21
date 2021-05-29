@@ -290,43 +290,45 @@ El resultado se puede ver en la página [asmilex.github.io/DIU21](https://asmile
 
 ### ![Método UX](img/ABtesting.png) 4.a Caso asignado
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+Para esta parte, se nos asignaron dos posibles equipos para los cuales analizaríamos su trabajo. Elejimos [Afterwork](https://github.com/VictorRubia/DIU21), pues su aplicación **Mira2** nos resultó llamativa.
 
 ### ![Método UX](img/usability-testing.png) 4.b User Testing
 
+Para la evaluación de las eplicaciones A y B hemos usado la récnica de rolplaying.
+Hemos creado 4 personajes ficticios (2 para cada aplicación) usando los dados proporcionados:
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+<img align="center" src="./img/P4/dados.png" alt="Dados"/>
 
+El género de los sujetos también fue aleatorio, al igual que la edad y su nivel de control de las TIC.
 
-| Usuarios     | Sexo/Edad | Ocupación  | Exp.TIC | Personalidad | Plataforma | TestA/B |
-|--------------|-----------|------------|---------|--------------|------------|---------|
-| User1's name | H / 18    | Estudiante | Media   | Introvertido | Web.       | A       |
-| User2's name | H / 18    | Estudiante | Media   | Timido       | Web        | A       |
-| User3's name | M / 35    | Abogado    | Baja    | Emocional    | móvil      | B       |
-| User4's name | H / 18    | Estudiante | Media   | Racional     | Web        | B       |
+Partiendo de los resultados de los dados, creamos las siguientes personas:
+
+- **Primer personaje**: 5, 2, 2. (Aplicación A)
+María es una mujer de 35 años que trabaja traduciendo contenido en una estación de radio. Tiene un nivel alto en el manejo de las tecnologías (8/10). Debido a su poca experiencia, tuvo un poco de miedo usando la aplicación. Finalmente, fue una experiencia agradable e intuitiva.
+- **Segundo personaje**: 4, 3, 5. (Aplicación A)
+Rubén es un planificador de bodas de 55 años que presenta una discapacidad motora en su pierna izquierda. Tiene un nivel medio en uso de tecnologías. En primer lugar estaba a disgusto, ya que tenía que preparar el viaje y no se lleva bien con las tecnologías. Por suerte, la simplicidad de la app hizo más amena su experiencia.
+- **Tercer personaje**: 2, 4, 5. (Aplicación B)
+José Ángel es un padre de familia de 28 que trabaja como dentista. Está estresado con su ajetreada vida y su primer hijo. No es amigo de la tecnología (3/10). En general, está satisfecho con la aplicación. No obstante, veremos los puntos de la encuesta SUS, pues muestran un margen de mejora en su opinión.
+- **Cuarto personaje**: 1, 2, 3. (Aplicación B)
+Olga es una cheff internacional de 45 años. Es una persona tranquila y espiritual. Le gusta explorar la cultura de los países y ciudades que visita por su trabajo. Tiene un nivel alto de uso de tecnología (8/10), lo cual facilita su interacción con la app. Esta experiencia es positiva, al igual que su actitud.
 
 
 ### ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 
+Para realizar un análisis de ambas aplicaciones, usaremos un cuestionario SUS. Aunque hay pocos encuestados, y son ficticios, es suficiente para estudiar los fallos que presentan.
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+Los resultados obtenidos son los siguientes:
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal
+<img align="center" src="./img/P4/.png" alt="Resultados SUS"/>
+
+Debemos destacar positivamente los resultados obtenidos por CherryTrip. El esfuerzo realizado para conseguir una aplicación cohesionada, simple e intuitiva han dado sus frutos. La sencillez de su uso es lo que más ha influenciado a los participantes ficticios.
+
+En la siguiente sección comentaremos los resultados obtenidos para Mira2.
 
 
 ### ![Método UX](img/usability-report.png) 4.d Usability Report
 
-
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal
-
+Por último, realizamos un estudio de la aplicación Mira2, el cual puede leerse con detenimiento en []().
 
 ## Paso 5. Evaluación de Accesibilidad
 

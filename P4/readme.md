@@ -4,7 +4,7 @@
 Para la evaluación de las eplicaciones A y B hemos usado la récnica de rolplaying.
 Hemos creado 4 personajes ficticios (2 para cada aplicación) usando los dados proporcionados:
 
-<img align="center" src="../docs/img/P4/dados.png" alt="Métodos de pago"/>
+<img align="center" src="../docs/img/P4/dados.png" alt="Dados"/>
 
 El género de los sujetos también fue aleatorio, al igual que la edad y su nivel de control de las TIC.
 
