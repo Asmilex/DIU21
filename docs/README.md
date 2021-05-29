@@ -328,26 +328,11 @@ En la siguiente sección comentaremos los resultados obtenidos para Mira2.
 
 ### ![Método UX](img/usability-report.png) 4.d Usability Report
 
-Por último, realizamos un estudio de la aplicación Mira2, el cual puede leerse con detenimiento en []().
-
-## Paso 5. Evaluación de Accesibilidad
-
-
-### ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG)
->>> 5.b) Uso de simuladores de accesibilidad
-
->>> (uso de tabla de datos, indicar herramientas usadas)
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
+Por último, realizamos un estudio de la aplicación Mira2, el cual puede leerse con detenimiento en [este enlace](https://github.com/Asmilex/DIU21/blob/master/P4/SUS%20y%20Usability%20Report%20de%20Mira2.pdf).
 
 
 ## Conclusión final / Valoración de las prácticas
 
+Aquí concluyen las prácticas de la asignatura DIU del año 2021. En ellas, hemos estudiado las necesidades del sector en la era pandémica, diseñado un branding y realizado un esquema de posible aplicación. Finalmente, analizamos la competencia resultante, intentando ver qué implementaciones han funcionado mejor y por qué.
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos
+Este proceso ha sido muy instructivo, y es un fiel reflejo de la realidad.
