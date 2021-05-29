@@ -194,7 +194,7 @@ El diseño de la página es del tipo scroll suave continuo, de forma que los ali
 
 La sección [Guidelines](##Guidelines) profundizará en los motivos tras estas elecciones.
 
-[Puedes visitar la landing page en este enlace](https://cherrytriplandingpage.webflow.io/). Utilizamos la herramienta [Webflow](www.webflow.io) para crearla.
+[Puedes visitar la landing page en este enlace](https://cherrytriplandingpage.webflow.io/). Utilizamos la herramienta [Webflow](https://webflow.com/) para crearla.
 
 <img align="center" src="./img/P3/LandingPage.jpg" alt="Landing Page" width="100%"/>
 
