@@ -319,7 +319,7 @@ Para realizar un análisis de ambas aplicaciones, usaremos un cuestionario SUS. 
 
 Los resultados obtenidos son los siguientes:
 
-<img align="center" src="./img/P4/.png" alt="Resultados SUS"/>
+<img align="center" src="./img/P4/cuestionarioSUS.png" alt="Resultados SUS"/>
 
 Debemos destacar positivamente los resultados obtenidos por CherryTrip. El esfuerzo realizado para conseguir una aplicación cohesionada, simple e intuitiva han dado sus frutos. La sencillez de su uso es lo que más ha influenciado a los participantes ficticios.
 
